@@ -19,3 +19,6 @@ puts current_students.pop
 the index position of "Kim" in the cohort_members array is 1
 3.32 is in the index position 0 in the local_gas_prices array
 the value of the element in index position 3 in the favorite_numbers array is 88
+
+# Call `delete_at()` to delete an element at a certain index position. calling `delete_at(2)` here will remove the element 31 from the favorite_numbers array
+puts favorite_numbers.delete_at(2)
