@@ -1,7 +1,7 @@
 1. How confident do you feel with the content on Arrays so far? 
 I am understanding arrays ok but I am unsure how to run this code to test that it works. Also I missed that I was supposed to create a github repository in step 1 so (THANKFULLY) I was still able to do so and add it in at the end (WHEW) and all commits still tracked! 
 1. Is there any additional learning you need or want to do before moving to the next lesson? 
->> yes, to my above questions:
+yes, to my above questions:
 - how do I run this code to ensure that all the array methods are calling correctly?
 - whats the difference between intiializing git (`git init`) and  initializing a git repository (creating a git repo and adding `git remote add origin SSH`)?
 1. What questions do you have about Arrays?
