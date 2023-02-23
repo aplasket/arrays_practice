@@ -4,6 +4,7 @@
 
 yes, to my above questions:
 - how do I run this code in the terminal to ensure that all the array methods are calling correctly? We're creating all the code in a ruby file in VS Code. So how do we then run it in the terminal? do i need to quickly run irb or replit to check it?
+>> I watched KVG's video on running things in the terminal with `ruby arrays.rb` so I answered this question on my own. But totally missed this context in the lesson. 
 
 - whats the difference between intiializing git (`git init`) and  initializing a git repository (creating a git repo and adding `git remote add origin SSH`)?
 
